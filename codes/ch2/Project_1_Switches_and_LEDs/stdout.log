@@ -1,0 +1,78 @@
+Running in Lattice mode
+
+
+Starting:    C:\lscc\iCEcube2.2020.12\synpbase\bin64\mbin\synbatch.exe
+Install:     C:\lscc\iCEcube2.2020.12\synpbase
+Hostname:    LAPTOP-1N0B9GGD
+Date:        Tue May 14 03:00:09 2024
+Version:     L-2016.09L+ice40
+
+Arguments:   -product synplify_pro -batch Project_1_Switches_and_LEDs_syn.prj
+ProductType: synplify_pro
+
+
+
+
+
+log file: "D:\lattice_fpga_practice\ch2\Project_1_Switches_and_LEDs\Project_1_Switches_and_LEDs_Implmnt\Project_1_Switches_and_LEDs.srr"
+Running: Project_1_Switches_and_LEDs_Implmnt in foreground
+
+Running Project_1_Switches_and_LEDs_syn|Project_1_Switches_and_LEDs_Implmnt
+
+Running: compile (Compile) on Project_1_Switches_and_LEDs_syn|Project_1_Switches_and_LEDs_Implmnt
+# Tue May 14 03:00:09 2024
+
+Running: compile_flow (Compile Process) on Project_1_Switches_and_LEDs_syn|Project_1_Switches_and_LEDs_Implmnt
+# Tue May 14 03:00:09 2024
+
+Running: compiler (Compile Input) on Project_1_Switches_and_LEDs_syn|Project_1_Switches_and_LEDs_Implmnt
+# Tue May 14 03:00:09 2024
+Copied D:\lattice_fpga_practice\ch2\Project_1_Switches_and_LEDs\Project_1_Switches_and_LEDs_Implmnt\synwork\Project_1_Switches_and_LEDs_comp.srs to D:\lattice_fpga_practice\ch2\Project_1_Switches_and_LEDs\Project_1_Switches_and_LEDs_Implmnt\Project_1_Switches_and_LEDs.srs
+
+compiler completed
+# Tue May 14 03:00:10 2024
+
+Return Code: 0
+Run Time:00h:00m:01s
+
+Running: multi_srs_gen (Multi-srs Generator) on Project_1_Switches_and_LEDs_syn|Project_1_Switches_and_LEDs_Implmnt
+# Tue May 14 03:00:10 2024
+
+multi_srs_gen completed
+# Tue May 14 03:00:10 2024
+
+Return Code: 0
+Run Time:00h:00m:00s
+Copied D:\lattice_fpga_practice\ch2\Project_1_Switches_and_LEDs\Project_1_Switches_and_LEDs_Implmnt\synwork\Project_1_Switches_and_LEDs_mult.srs to D:\lattice_fpga_practice\ch2\Project_1_Switches_and_LEDs\Project_1_Switches_and_LEDs_Implmnt\Project_1_Switches_and_LEDs.srs
+Complete: Compile Process on Project_1_Switches_and_LEDs_syn|Project_1_Switches_and_LEDs_Implmnt
+
+Running: premap (Pre-mapping) on Project_1_Switches_and_LEDs_syn|Project_1_Switches_and_LEDs_Implmnt
+# Tue May 14 03:00:10 2024
+
+premap completed
+# Tue May 14 03:00:11 2024
+
+Return Code: 0
+Run Time:00h:00m:01s
+Complete: Compile on Project_1_Switches_and_LEDs_syn|Project_1_Switches_and_LEDs_Implmnt
+
+Running: map (Map) on Project_1_Switches_and_LEDs_syn|Project_1_Switches_and_LEDs_Implmnt
+# Tue May 14 03:00:11 2024
+License granted for 4 parallel jobs
+
+Running: fpga_mapper (Map & Optimize) on Project_1_Switches_and_LEDs_syn|Project_1_Switches_and_LEDs_Implmnt
+# Tue May 14 03:00:11 2024
+Copied D:\lattice_fpga_practice\ch2\Project_1_Switches_and_LEDs\Project_1_Switches_and_LEDs_Implmnt\synwork\Project_1_Switches_and_LEDs_m.srm to D:\lattice_fpga_practice\ch2\Project_1_Switches_and_LEDs\Project_1_Switches_and_LEDs_Implmnt\Project_1_Switches_and_LEDs.srm
+
+fpga_mapper completed
+# Tue May 14 03:00:12 2024
+
+Return Code: 0
+Run Time:00h:00m:01s
+Complete: Map on Project_1_Switches_and_LEDs_syn|Project_1_Switches_and_LEDs_Implmnt
+Complete: Logic Synthesis on Project_1_Switches_and_LEDs_syn|Project_1_Switches_and_LEDs_Implmnt
+
+exit status=0
+
+exit status=0
+

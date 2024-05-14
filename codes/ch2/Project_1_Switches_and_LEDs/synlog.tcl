@@ -1,0 +1,1 @@
+project -load Project_1_Switches_and_LEDs_syn.prj
