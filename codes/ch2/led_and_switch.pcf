@@ -1,0 +1,15 @@
+# LED pins
+# please refer to the ICEstick full pinout diagram or the manual at page 5.
+# note that 95 is the system LED so I just left it as it is.
+
+set_io o_LED_1 96
+set_io o_LED_2 97
+set_io o_LED_3 98
+set_io o_LED_4 99
+
+#Push-button switches
+# I used the PMOD-BTN 4+4 module from SiPEED, looking at the K's
+set_io i_Switch_1 91
+set_io i_Switch_2 90
+set_io i_Switch_3 79
+set_io i_Switch_4 78
