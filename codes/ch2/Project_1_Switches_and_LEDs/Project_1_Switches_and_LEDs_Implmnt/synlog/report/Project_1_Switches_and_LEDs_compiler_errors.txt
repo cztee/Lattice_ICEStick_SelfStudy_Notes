@@ -1,4 +1,0 @@
-@E: CD242 :"D:\lattice_fpga_practice\ch2\project_1.vhd":19:26:19:27|Expecting ;
-@E: CD214 :"D:\lattice_fpga_practice\ch2\project_1.vhd":19:26:19:27|Not a concurrent statement
-@E: Parse errors encountered - exiting
-
