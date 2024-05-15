@@ -1,7 +1,0 @@
-C:\lscc\iCEcube2.2020.12\synpbase\bin64\c_hdl.exe  -osyn  D:\lattice_fpga_practice\ch2\Project_1_Switches_and_LEDs\Project_1_Switches_and_LEDs_Implmnt\synwork\Project_1_Switches_and_LEDs_comp.srs  -hdllog  D:\lattice_fpga_practice\ch2\Project_1_Switches_and_LEDs\Project_1_Switches_and_LEDs_Implmnt\synlog\Project_1_Switches_and_LEDs_compiler.srr  -encrypt  -mp  4  -verification_mode 0  -vhdl  -prodtype  synplify_pro  -primux -fixsmult -infer_seqShift -ice -sdff_counter -nram -divnmod -nostructver  -encrypt  -pro  -dmgen  D:\lattice_fpga_practice\ch2\Project_1_Switches_and_LEDs\Project_1_Switches_and_LEDs_Implmnt\dm  -lite -ui -fid2 -ram -sharing on -ll 2000 -autosm  -ignore_undefined_lib  -lib work D:\lattice_fpga_practice\ch2\project_1.vhd 
-rc:0 success:1 runtime:1
-file:D:\lattice_fpga_practice\ch2\Project_1_Switches_and_LEDs\Project_1_Switches_and_LEDs_Implmnt\synwork\Project_1_Switches_and_LEDs_comp.srs|io:o|time:1715626809|size:1734|exec:0
-file:D:\lattice_fpga_practice\ch2\Project_1_Switches_and_LEDs\Project_1_Switches_and_LEDs_Implmnt\synlog\Project_1_Switches_and_LEDs_compiler.srr|io:o|time:1715626809|size:2820|exec:0
-file:D:\lattice_fpga_practice\ch2\project_1.vhd|io:i|time:1715626804|size:599|exec:0
-file:C:\lscc\iCEcube2.2020.12\synpbase\bin\c_hdl.exe|io:i|time:1708587664|size:1338368|exec:1
-file:C:\lscc\iCEcube2.2020.12\synpbase\bin64\c_hdl.exe|io:i|time:1708587665|size:1754112|exec:1
