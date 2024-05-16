@@ -1,2 +1,3 @@
 - https://dl.sipeed.com/shareURL/TANG/PMOD
-Disclaimer: I do not owe the schematics.
+- Disclaimer: I do not owe the schematics.
+- Disclaimer 2: I do not owe or take any pictures here. The pictures are from the official website of SiPEED's PMOD and adapted based on my understanding. Mistakes made are my own fault.
