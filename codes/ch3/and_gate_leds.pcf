@@ -1,0 +1,7 @@
+#LED pin
+
+set_io o_LED_1 97
+
+#switch pins
+set_io i_Switch_1 81 ## for S1
+set_io i_Switch_2 80 ## for S2 
