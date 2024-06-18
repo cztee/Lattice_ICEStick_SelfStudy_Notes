@@ -1,0 +1,3 @@
+set_io i_Clk 21
+set_io i_Switch_1 91
+set_io o_LED_1 96
